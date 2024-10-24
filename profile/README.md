@@ -1,4 +1,4 @@
-# CSC 510: Software Engineering - DFY-NCSU
+# CSC 591-024: Automated Software Engineering - DHP-NCSU
 
 Welcome to the official GitHub organization for **CSC 591-024: Automated Software Engineering** at **North Carolina State University**.
 
